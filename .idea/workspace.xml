@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa06e60d-aca1-4170-996f-0fbe3860c49a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/MAE 3403 HW 6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW 6/HW6_1_2_OOP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW 6/HW6_1_OOP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW 6/HW6_2_OOP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW 6/Problem 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW 6/Problem 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW 6/Problem_1_Test_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW 6/ResistorNetwork.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW 6/ResistorNetwork_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW 6/Steam.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW 6/rankine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW 6/saturated_properties.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW 6/superheated_properties.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW 6/test_rankine.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2dPfITkouzFemHRwXyUGtqX2gmI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.HW6_1_2_OOP.executor": "Debug",
+    "Python.HW6_1_OOP.executor": "Debug",
+    "Python.HW6_2_OOP.executor": "Debug",
+    "Python.Problem 1.executor": "Debug",
+    "Python.Problem 2.executor": "Debug",
+    "Python.Problem_1_Test_2.executor": "Debug",
+    "Python.Steam.executor": "Debug",
+    "Python.test_rankine.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa06e60d-aca1-4170-996f-0fbe3860c49a" name="Changes" comment="" />
+      <created>1709914553437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709914553437</updated>
+    </task>
+    <servers />
+  </component>
+</project>
